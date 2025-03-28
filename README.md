@@ -1,7 +1,7 @@
 # Electric-Tambourine
 Robot para participar en Eurobot 2025
 
-![Logo Electric Tambourine](https://github.com/lobotic/Electric-Tambourine/blob/main/logoETambourine.jpeg)
+![Logo Electric Tambourine](https://github.com/lobotic/Electric-Tambourine/blob/main/logoETambourinePequeno.jpeg)
 
 ## Equipo
 - [Susana Alonso](https://x.com/SusanaAloRa)
