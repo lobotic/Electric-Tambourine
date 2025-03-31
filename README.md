@@ -14,3 +14,6 @@ Robot para participar en Eurobot 2025
 ## Software
 [Electric Tambourine Cableado](https://github.com/lobotic/Electric-Tambourine/blob/main/Software/electric_tambourine_cableado.ino)
 
+## Conexión de motores
+![Conexión de motores](https://github.com/lobotic/Electric-Tambourine/edit/main/conexionmotores.png)
+
