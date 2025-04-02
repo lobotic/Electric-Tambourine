@@ -17,3 +17,6 @@ Robot para participar en Eurobot 2025
 ## Conexión de motores
 ![Conexión de motores](https://github.com/lobotic/Electric-Tambourine/blob/main/conexionmotores.png)
 
+## Elementos 3D
+Pinchos portalatas
+![PinchosTambourine](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/PinchosTambourine/PinchosTambourine.jpg)
