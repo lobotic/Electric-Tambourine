@@ -20,3 +20,5 @@ Robot para participar en Eurobot 2025
 ## Elementos 3D
 - [Pinchos portalatas](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/PinchosTambourine/)
 - ![PinchosTambourine](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/PinchosTambourine/PinchosTambourine.jpg)
+- [Soporte Servo SM-S4303R](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SoporteServo)
+- ![Soporte Servo SM-S4303R](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SoporteServo/SoporteServoSM-S4303R.jpg)
