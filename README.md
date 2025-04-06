@@ -11,6 +11,7 @@ Robot para participar en Eurobot 2025
 - [Jorge Lobo](https://x.com/lobo_tic)
 
 
+# Robot Principal
 ## Software
 [Electric Tambourine Cableado](https://github.com/lobotic/Electric-Tambourine/blob/main/Software/electric_tambourine_cableado.ino)
 
@@ -22,3 +23,12 @@ Robot para participar en Eurobot 2025
 - ![PinchosTambourine](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/PinchosTambourine/PinchosTambourine.jpg)
 - [Soporte Servo SM-S4303R](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SoporteServo)
 - ![Soporte Servo SM-S4303R](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SoporteServo/SoporteServoSM-S4303R.jpg)
+
+# Robofans: Pakito
+## Elementos 3D
+- [Base Rotatoria](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/FansPakito/BaseRotacionFansPakitoHueco.stl)
+- [Separadores](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/FansPakito/Separadores55mm.stl)
+- [Base Zootropo](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/FansPakito/baseZootropo.stl)
+
+## Motaje Zootropo Pakito
+![Motaje Zootropo Pakito](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/FansPakito/FansPakitoMontaje.jpg)
