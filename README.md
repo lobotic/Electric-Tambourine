@@ -37,3 +37,4 @@ Robot para participar en Eurobot 2025
 ## Elementos 3D
 - [Soporte servo SiMaiKenedy](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SIMAIKENNEDY/SIMAIKENNEDY.stl)
 - ![Soporte servo SiMaiKenedy](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SIMAIKENNEDY/SIMAIKENNEDY.jpg)
+- ![Montaje SiMaiKenedy](https://github.com/lobotic/Electric-Tambourine/blob/main/3D/SIMAIKENNEDY/montaje_SIMAIKENNEDY.png)
