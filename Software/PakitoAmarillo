@@ -1,0 +1,29 @@
+//Programación Javascript para Microbit
+let incio = 0
+Maqueen_V5.servoRun(Maqueen_V5.Servos.S1, 90)
+maqueen.motorStop(maqueen.Motors.All)
+// Amarillo
+basic.forever(function () {
+    if (incio == 0) {
+        if (pins.analogReadPin(AnalogReadWritePin.P2) < 100) {
+            incio = 1
+            basic.pause(87000)
+            maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 53)
+            basic.pause(1800)
+            maqueen.motorStop(maqueen.Motors.M1)
+            maqueen.motorRun(maqueen.Motors.M2, maqueen.Dir.CW, 53)
+            basic.pause(400)
+            maqueen.motorStop(maqueen.Motors.All)
+            maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 60)
+            basic.pause(6000)
+            maqueen.motorStop(maqueen.Motors.All)
+            Maqueen_V5.servoRun(Maqueen_V5.Servos.S1, 170)
+        }
+    } else {
+        maqueen.motorStop(maqueen.Motors.All)
+    }
+})
+// Azul
+basic.forever(function () {
+	
+})
